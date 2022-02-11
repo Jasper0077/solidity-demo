@@ -2,7 +2,7 @@
 
 pragma solidity ^0.8.4;
 
-contract SimpleMappingExample {
+contract SimpleMapping {
 
     mapping(uint => bool) public myMapping;
     mapping(address => bool) public myAddressMapping;
