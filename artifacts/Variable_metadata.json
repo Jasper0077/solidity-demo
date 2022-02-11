@@ -7,32 +7,6 @@
 		"abi": [
 			{
 				"inputs": [],
-				"name": "myBool",
-				"outputs": [
-					{
-						"internalType": "bool",
-						"name": "",
-						"type": "bool"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "myString",
-				"outputs": [
-					{
-						"internalType": "string",
-						"name": "",
-						"type": "string"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
 				"name": "myUint",
 				"outputs": [
 					{
@@ -42,19 +16,6 @@
 					}
 				],
 				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [
-					{
-						"internalType": "bool",
-						"name": "_myBool",
-						"type": "bool"
-					}
-				],
-				"name": "setMyBool",
-				"outputs": [],
-				"stateMutability": "nonpayable",
 				"type": "function"
 			}
 		],
@@ -86,11 +47,11 @@
 	},
 	"sources": {
 		"Variable.sol": {
-			"keccak256": "0x8fcf75bb06bff9d03a7681c9e7024b1d65c82fcdadd77a4cfedcd72f8ff07ce0",
+			"keccak256": "0x00b0cdb8a83f3de8af28e9b9cadcd42a9dbfc0d6d509ab77137897b1ceaf0c9a",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://169035975d8a2ee3a85e979b1021d5461edb7aaa55b3876183fc105119d001ae",
-				"dweb:/ipfs/QmQK5Lbw9pkFT2Wv5jN5ESRGtP25myT1Z5C6wvQbHCS6xg"
+				"bzz-raw://4c9158d45a3946193a576f965a69a6a3a173623a9f46cb8ff2b0ac47dee70702",
+				"dweb:/ipfs/Qmdye2KKee7VXuWJV1nuwsbKCoaVQZz4cQkFf1oXp7njRQ"
 			]
 		}
 	},
